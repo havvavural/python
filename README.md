@@ -1,10 +1,10 @@
-# python-homework
----
 ## Homework Assignment: Automate Your Day Job with Python
 ---
 ### Background
 ---
+
 It's time to put away the Excel sheet and join the big leagues. In this homework assignment, I'll be using the concepts I've learned to complete two Python activities, PyBank and PyRamen. Both activities present a real-world situation in which my newfound Python skills will come in handy. 
+
 ---
 ## PyBank
 ![](https://stockanalysis.com/wp-content/uploads/2020/03/revenue-growth-concept.jpg)
