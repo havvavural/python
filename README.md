@@ -1,4 +1,4 @@
-## Homework Assignment: Automate Your Day Job with Python
+## Automating My Day Job with Python
 ---
 ### Background
 ---
@@ -33,3 +33,4 @@ My task is to create a Python script that analyzes the records to calculate each
 * The greatest decrease in losses (date and amount) over the entire period.
 
 
+**Havva Vural**
